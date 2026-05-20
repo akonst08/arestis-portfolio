@@ -116,17 +116,19 @@ button {
   right: 0;
   z-index: 100;
   padding: 1.1rem var(--space-md);
-  background: transparent;
+  background: rgba(7, 9, 15, 0.72);
+  border-bottom: 1px solid rgba(201, 168, 76, 0.14);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
   transition: background var(--dur) var(--ease),
-              border-color var(--dur) var(--ease);
-  border-bottom: 1px solid transparent;
+              border-color var(--dur) var(--ease),
+              box-shadow var(--dur) var(--ease);
 }
 
 .nav.scrolled {
-  background: rgba(7, 9, 15, 0.92);
-  border-color: var(--border);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
+  background: rgba(10, 13, 22, 0.96);
+  border-bottom: 1px solid rgba(201, 168, 76, 0.26);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.28);
 }
 
 .nav__inner {
