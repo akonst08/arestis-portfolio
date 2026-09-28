@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" fill="none">
+  <path d="M-40 60c85-52 171-52 257 0s171 52 257 0 171-52 257 0M-40 106c85-52 171-52 257 0s171 52 257 0 171-52 257 0M-40 152c85-52 171-52 257 0s171 52 257 0 171-52 257 0M-40 198c85-52 171-52 257 0s171 52 257 0 171-52 257 0M-40 244c85-52 171-52 257 0s171 52 257 0 171-52 257 0M-40 290c85-52 171-52 257 0s171 52 257 0 171-52 257 0M-40 336c85-52 171-52 257 0s171 52 257 0 171-52 257 0" stroke="#c6c6c6" stroke-width="1"/>
+  <rect x="105" y="56" width="430" height="306" rx="10" fill="#f8f8f8" stroke="#222" stroke-width="1.5"/>
+  <path d="M105 106h430M105 284h430" stroke="#cecece"/>
+  <g fill="#3b3b3b" font-family="monospace" font-size="12" letter-spacing="2"><text x="132" y="86">LOCAL FORECAST</text><text x="419" y="86">LIVE / 01</text><text x="132" y="338">NOW</text><text x="225" y="338">06</text><text x="318" y="338">12</text><text x="411" y="338">18</text><text x="493" y="338">24</text></g>
+  <text x="128" y="248" fill="#171717" font-family="Arial, sans-serif" font-weight="700" font-size="126" letter-spacing="-12">24</text>
+  <circle cx="320" cy="153" r="15" stroke="#171717" stroke-width="3"/>
+  <path d="M320 128v-9m0 68v-9m-25-25h-9m68 0h-9m-43-18-7-7m50 50-7-7m0-36 7-7m-50 50 7-7" stroke="#171717" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M323 215c0-16 13-29 29-29 5 0 10 1 14 4 7-16 23-27 42-27 25 0 45 18 47 42 13 1 23 12 23 25 0 14-11 25-25 25H350c-15 0-27-12-27-27 0-5 1-9 3-13Z" fill="#f8f8f8" stroke="#171717" stroke-width="3"/>
+  <path d="M132 305c40-7 72 8 112 1 41-7 64-12 101-5 43 8 65-8 100-4 21 2 39 8 63 3" stroke="#171717" stroke-width="2"/>
+  <circle cx="345" cy="301" r="3" fill="#171717"/>
+</svg>

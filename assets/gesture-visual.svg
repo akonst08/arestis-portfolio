@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" fill="none">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#333" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="640" height="420" fill="url(#grid)" opacity=".62"/>
+  <circle cx="314" cy="222" r="166" stroke="#555" stroke-width="1" stroke-dasharray="3 9"/>
+  <circle cx="314" cy="222" r="108" stroke="#444" stroke-width="1"/>
+  <path d="M314 48v34m0 280v22M140 222h35m278 0h35" stroke="#777" stroke-width="1"/>
+  <path d="m299 345-10-53-35-38-33-40-31-31m99 109-6-68-17-58-7-57m30 115 5-75 3-62 7-68m-10 130 28-69 24-55 21-53m-45 183 45-37 36-39 32-43M289 292l33-10 30 18M299 345l53-45" stroke="#f4f4f4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m254 254 29-30 11-75m0 0 28 31m0 0 45-3m-84 47 39-44m0 0 45 67m-45-67 30 120" stroke="#9a9a9a" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#f4f4f4">
+    <circle cx="299" cy="345" r="5"/><circle cx="289" cy="292" r="5"/><circle cx="254" cy="254" r="5"/><circle cx="221" cy="214" r="5"/><circle cx="190" cy="183" r="5"/>
+    <circle cx="283" cy="224" r="5"/><circle cx="266" cy="166" r="5"/><circle cx="259" cy="109" r="5"/>
+    <circle cx="294" cy="149" r="5"/><circle cx="297" cy="87" r="5"/><circle cx="304" cy="19" r="5"/>
+    <circle cx="322" cy="180" r="5"/><circle cx="346" cy="125" r="5"/><circle cx="367" cy="72" r="5"/>
+    <circle cx="352" cy="300" r="5"/><circle cx="367" cy="263" r="5"/><circle cx="403" cy="224" r="5"/><circle cx="435" cy="181" r="5"/>
+  </g>
+  <g fill="#1a1a1a" stroke="#f4f4f4" stroke-width="2"><circle cx="322" cy="282" r="8"/><circle cx="314" cy="222" r="8"/></g>
+  <path d="M427 111h72m-72 0-47 26M149 311h74l38-31" stroke="#a9a9a9" stroke-width="1"/>
+  <g fill="#d6d6d6" font-family="monospace" font-size="12" letter-spacing="2"><text x="435" y="103">LANDMARKS</text><text x="149" y="330">TRACKING</text></g>
+</svg>
